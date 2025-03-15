@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Yidu-git
+- 👀 I’m interested in python, eel, science , html & css, design
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: Hell naw ,Im Christian ✝️
+- ⚡ Fun fact: God loves you!
