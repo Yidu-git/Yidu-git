@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yidu-git
-- 👀 I’m interested in python, eel, science , html & css, design
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python, computer-science, maths, & design
+- 🌱 I’m currently learning Back end development
+- 💞️ I’m looking to collaborate on webdesign
 - 📫 How to reach me ...
-- 😄 Pronouns: Hell naw ,Im Christian ✝️
-- ⚡ Fun fact: God loves you!
+- ⚡ Fun fact: Quantom computers can break RSA encryption which is the key encryption algorythm that almost all secure thecnologies like https use
