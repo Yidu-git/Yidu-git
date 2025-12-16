@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Back end development
 - 💞️ I’m looking to collaborate on webdesign
 - 📫 How to reach me ...
-- ⚡ Fun fact: Quantom computers can break RSA encryption which is the key encryption algorythm that almost all secure thecnologies like https use
+- ⚡ Fun fact: Quantum computers can break RSA encryption which is the key encryption algorythm that almost all secure thecnologies like https use
