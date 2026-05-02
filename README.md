@@ -13,5 +13,6 @@ I'm a software developer intrested in building projects that include mathematics
 
 📚 Currently Exploring
 - MongoDB
+- Lua
 - C++
 - Java
